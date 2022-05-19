@@ -15,29 +15,27 @@
       <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample01" aria-controls="navbarsExample01" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-
+    
           <div class="navbar-collapse collapse" id="navbarsExample01">
             <ul class="navbar-nav me-auto mb-2">
               <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="/index.html">Home</a>
-                <a class="nav-link active" aria-current="page" href="/information/information.html">School Information</a>
               </li>
               <li class="nav-item dropdwown">
                 <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
                   <ul class="dropdown-menu" aria-labelledby="dropdown01">
                     <li><a class="dropdown-item" href="https://kcs.powerschool.com/guardian/schoolinformation.html">Power School</a></li>
                     <li><a class="dropdown-item" href="https://kcs.schoology.com/home">Schoology</a></li>
-                    <li><a class="dropdown-item" href="/resources/calendar.html">Calendar</a></li>
                   </ul>
                 </a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Classes</a>
                 <ul class="dropdown-menu" aria-labelledby="dropdown01">
-                  <li><a class="dropdown-item" href="/Classes Links/Math.html">Math</a></li>
-                  <li><a class="dropdown-item" href="/Classes Links/French.html">French</a></li>
-                  <li><a class="dropdown-item" href="/Classes Links/Arts.html">Arts</a></li>
-                  <li><a class="dropdown-item" href="/Classes Links/PE.html">P.E.</a></li>
+                  <li><a class="dropdown-item" href="./Classes Links/Math.html">Math</a></li>
+                  <li><a class="dropdown-item" href="./Classes Links/French.html">French</a></li>
+                  <li><a class="dropdown-item" href="./Classes Links/Arts.html">Arts</a></li>
+                  <li><a class="dropdown-item" href="./Classes Links/PE.html">P.E.</a></li>
                 </ul>
               </li>
             <li class="nav-item dropdown">
@@ -58,22 +56,20 @@
         <div class="row">
           <h1 id="class">Welcome to the Brand New KCS Homework Website!</h1> <!--this is a comment-->
         </div>
-        <div class="row"> <!--Start of card-->
-          <div class="col-sm-6">
-            <div class="ratio ratio-4x3">
-              <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpY-R9FGnBS3QmXJePraDXz8shcG2xlbTMzSS7lGcV_oN6bqoQ3Qa5_GTBGL5UWs1F-4aYMBdcxepU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
-              <div class="card">
+        <div class="row">
+          <div class="col-6">
+            <div class="card">
+              <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpY-R9FGnBS3QmXJePraDXz8shcG2xlbTMzSS7lGcV_oN6bqoQ3Qa5_GTBGL5UWs1F-4aYMBdcxepU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="50%" height="50%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>          
               <div class="card-body text-center">
                 <h5 class="card-title">Math Class</h5>
                 <p class="card-text">This is Math Class for KCS Grade 9</p>
                 <a href="https://kcs.schoology.com/course/5113679629/materials" class="btn btn-primary">Math Schoology Class</a>
               </div>
             </div>
-          </div> <!--End of card-->
-          <div class="col-sm-6">
-            <div class="ratio ratio-4x3">
-              <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpY-R9FGnBS3QmXJePraDXz8shcG2xlbTMzSS7lGcV_oN6bqoQ3Qa5_GTBGL5UWs1F-4aYMBdcxepU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
-              <div class="card"> 
+          </div>
+          <div class="col-6">
+            <div class="card">
+              <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpY-R9FGnBS3QmXJePraDXz8shcG2xlbTMzSS7lGcV_oN6bqoQ3Qa5_GTBGL5UWs1F-4aYMBdcxepU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="50%" height="50%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>              
               <div class="card-body text-center">
                 <h5 class="card-title">Math Class</h5>
                 <p class="card-text">This is Math Class for KCS Grade 9</p>
@@ -83,8 +79,11 @@
           </div>
         </div>
       </div>
+<h1 id="class">Welcome to the Brand New KCS Homework Website!</h1>
+<div class="container col-sm-3"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSn2_CRULSsMdF89wdDf85dHoVROpaYHSvRRP4D0_IRd-nDkqLmb0AVk35ZccQR2zwfJWAsTcGACZoQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 </div>
 
+<div class="container col-sm-3"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpY-R9FGnBS3QmXJePraDXz8shcG2xlbTMzSS7lGcV_oN6bqoQ3Qa5_GTBGL5UWs1F-4aYMBdcxepU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 </body>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>

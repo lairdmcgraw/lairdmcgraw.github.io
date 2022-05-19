@@ -1,0 +1,31 @@
+:root{
+    --KCSbluedark:#273084;
+    --KCSorangedarkish: #FF5729;
+    --textcolor: #FFF5EA;
+}
+
+h2{
+
+    background-color: var(--KCSorangedarkish); /* orange */
+    text-align: center;
+
+    -webkit-text-fill-color: var(--KCSbluedark); /* blue */
+}
+
+h1{
+    background-color: ghostwhite; /* white */
+    text-align: center;
+
+    -webkit-text-fill-color: var(--KCSbluedark); /* blue */
+
+
+}
+
+.navbar-dark{
+    background: var(--KCSbluedark);
+}
+
+iframe{
+    justify-content: center;
+}
+
